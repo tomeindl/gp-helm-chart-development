@@ -15,7 +15,6 @@
     {
       "matchUpdateTypes": ["patch"],
       "matchPaths": ["infra/gp-hub-monitoring/Chart.yaml"],
-      "matchDepNames": ["test-chart"],
       "enabled": false
     }
   ]
