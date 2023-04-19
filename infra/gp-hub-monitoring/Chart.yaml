@@ -17,3 +17,6 @@ dependencies:
   - name: kube-state-metrics
     version: 5.5.0
     repository: https://prometheus-community.github.io/helm-charts
+  - name: test-chart
+    version: 0.1.0
+    repository: https://tomeindl.github.io/renovate-test-dep/
